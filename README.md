@@ -1,4 +1,4 @@
-# 🔒 Portable Uncensored AI — Runs Entirely from a USB Drive
+# 🔒 Portable Uncensored AI - Runs Entirely from a USB Drive
 
 A **fully private, portable, uncensored AI assistant** that runs 100% from a USB flash drive. No internet needed after setup. No data leaves the USB. Works on **Windows**, **Mac**, and **Linux**.
 
