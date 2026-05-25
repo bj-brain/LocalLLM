@@ -4,10 +4,6 @@ A **fully private, portable, uncensored AI assistant** that runs 100% from a USB
 
 **Now with multi-model support!** Choose from 6 curated AI models or bring your own.
 
-## 📺 Watch the Tutorial
-
-[![Portable AI USB Tutorial](https://img.youtube.com/vi/cqrMfO6AZRU/maxresdefault.jpg)](https://youtu.be/cqrMfO6AZRU)
-
 ## ⚡ Available Models
 
 During installation, you'll choose which model(s) to download:
